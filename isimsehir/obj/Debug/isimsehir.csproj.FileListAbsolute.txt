@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\isimsehir\isimsehir\bin\Debug\isimsehir.exe.config
+C:\Users\HP\source\repos\isimsehir\isimsehir\bin\Debug\isimsehir.exe
+C:\Users\HP\source\repos\isimsehir\isimsehir\bin\Debug\isimsehir.pdb
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.Form1.resources
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.Properties.Resources.resources
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.exe
+C:\Users\HP\source\repos\isimsehir\isimsehir\obj\Debug\isimsehir.pdb
